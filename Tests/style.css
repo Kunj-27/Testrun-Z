@@ -1,0 +1,17 @@
+h1 {
+    height: max-content;
+}
+body { 
+    background-color: grey;
+    height: auto;
+    width: auto;
+    color: black;
+}
+a:hover {
+    color: blue;
+    background: aqua;
+    border-radius: 50px;
+    border: 5px;
+    border-width: 3px;
+    border-color: #002000;
+}
